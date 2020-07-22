@@ -1,0 +1,43 @@
+.h11
+{
+    text-align: center;
+    margin: 30px;
+    
+    font-family: 'Piedra', cursive;
+    color:#ed1f0c;;
+    font-size: 5rem;
+    padding-top: 5rem;
+
+
+}
+img{
+    width:125%;
+}
+.body
+{
+    background-image: url("images/download\ -\ Copy.jfif");
+    background-repeat:no-repeat;
+    background-color: #0cf7b1;
+}
+.container
+{
+    width: 75%;
+
+    text-align: center;
+    
+    
+}
+.space
+{
+    padding-top: 3rem;
+}
+.dice
+{padding-left: 9rem;
+    padding-right:9rem;
+    font-size: 2rem;
+    font-size: bold;
+    text-align: center;
+    font-family: 'Berkshire Swash', cursive;
+
+    
+}
